@@ -1,1 +1,43 @@
-
+{
+    "direcionado": false,
+    "vertices": [
+        "São Paulo",
+        "Campinas",
+        "Americana",
+        "Jundiaí",
+        "Limeira",
+        "Rio Claro"
+    ],
+    "arestas": [
+        [
+            "São Paulo",
+            "Campinas",
+            90
+        ],
+        [
+            "São Paulo",
+            "Jundiaí",
+            60
+        ],
+        [
+            "Campinas",
+            "Americana",
+            45
+        ],
+        [
+            "Campinas",
+            "Jundiaí",
+            40
+        ],
+        [
+            "Americana",
+            "Limeira",
+            25
+        ],
+        [
+            "Limeira",
+            "Rio Claro",
+            30
+        ]
+    ]
+}
